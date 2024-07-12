@@ -73,7 +73,7 @@
 
 @media(max-width: 620px) {
     .title {
-        font-size: 60px;
+        font-size: 30px;
     }
 
     .main h2 {
@@ -84,4 +84,9 @@
         width: 80%;
         min-height: 250px
     }
+
+    .containerInput input {
+        font-size: 12px;
+    }
+
 }
